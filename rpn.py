@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import operator
-
 operators = {
     '+': operator.add,
     '-': operator.sub,
